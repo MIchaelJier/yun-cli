@@ -1,0 +1,9 @@
+{
+  "name": "yun-cli",
+  "version": "1.0.0",
+  "description": "简易vue脚手架",
+  "main": "index.js",
+  "repository": "git@github.com:MIchaelJier/yun-cli.git",
+  "author": "MichaelJier <chem908430737@icloud.com>",
+  "license": "MIT"
+}
